@@ -37,7 +37,8 @@ The highlighted findings with plots from jupyter notebook are as follows:
 1. The number and distribution of US companies    
 *The total number of companies in each state in US from 1960-2014*  
 >1. This graph was generated using Tableau, showing a basic regional distribution of the companies in US. 
->2. California has the most number of companies, the number of which is way greater than the second state, New York.
+>2. California has the most number of companies, the number of which is way greater than the second state, New York.  
+
 ![png](./pics/output_34_0.png) 
 
 2. Number of companies founded and got acquired (2000 -2013)    
@@ -54,7 +55,8 @@ The highlighted findings with plots from jupyter notebook are as follows:
 3. The trend of market with popular acquisition target from 2007 to 2014    
 *How the number of acquired companies in Top 5 market changes over time?* 
 >1.   Number of acquisition on mobile is steadly growing
-> 2. There are cheap acquisitions for curated web companies and pure software companies
+> 2. There are cheap acquisitions for curated web companies and pure software companies   
+
 ![png](./pics/output_55_0.png)
 
 
