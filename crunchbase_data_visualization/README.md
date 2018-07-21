@@ -11,14 +11,14 @@ This project used the following four datasets, which are available in  (**Dataso
 
 |Table | Number of Entries |Contents |
 |--|--|--|
-| `company` |49,438  | <li>regional onformation <li>market/ industry information<li>funding status  |
+| `company` |49,438  | <li>regional information <li>market/ industry information<li>funding status  |
 |`investment` |114,506|<li>companies's information <li>investor's <li>funding information |
 | `acquisition` |  55,240|<li>companies and its acquirer's  information <li>price_amount of money the acquirer paid|
 |`rounds `|83,870|<li>companies' information <li>funding status <li>amount of money rasied|
 
 
 ### Tech Stacks
-The project is written in Python 3.6 with Google Colabotary tool. We used pandas and numpy for data analysis, and used seaborn, worldcloud and matplotlib for data visualization.
+The project is written in Python 3.6 with Google Colaboratory tool. We used pandas and numpy for data analysis, and used seaborn, worldcloud and matplotlib for data visualization.
 ```
 import pandas as pd
 import numpy as np
