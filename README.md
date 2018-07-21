@@ -1,6 +1,6 @@
 # data-visualization
 Data visualization practices and projects.  
-[**Crunchbase company Data Analysis**](https://github.com/YuexiSC/data-visualization)
+1. [**Crunchbase company Data Analysis**](https://github.com/YuexiSC/data-visualization/tree/master/crunchbase_data_visualization)
 
 ## Practice 
 This practices contains top 8 simple plotting types.  
