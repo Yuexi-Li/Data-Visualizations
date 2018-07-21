@@ -1,7 +1,7 @@
 ## US companies and industry landscape with Crunchbase  Data 
 ### Overview
 In order to get a better understanding of companies and industry landscape in US,  we analyzed companies distributions, funding amounts, and aquisition trends in US using the Crunchbase data. 
-The [jupyter notebook](https://github.com/YuexiSC/data-visualization/blob/master/crunchbase_data_visualization/crunch_base_viz_final.ipynb) file consists of the following sections: 
+The [jupyter notebook](https://github.com/YuexiSC/data-visualization/blob/master/crunch_base_viz.ipynb) file consists of the following sections: 
 <li> Environment Configuration 
 <li> Data Preparation 
 <li> Data Visualization    
