@@ -44,9 +44,9 @@ The highlighted findings with plots from jupyter notebook are as follows:
  *The trend of the number of companies founded and acquired over the years.*
 
 >1.   Entrepreneurship is on an upward trend. 
->2. Whether the crisises have inpacts on Entrepreneurship trend: 
->>1) After financial crisis in 2008, there is a countinous climbing up of number of companies founded, looks like a economic revival, but the acqusition slow down a little bit. 
->>2) However, after crisis of 2012, the number of companies founded has a sharp decrease. We can tell the crisis that countries and banks struggle to get balances sheets  has much negtive impact on staring a company. In the contrast, acquisition activities have increased slightly. 
+>2. Whether the crisises have inpacts on Entrepreneurship trend:   
+>>1) After financial crisis in 2008, there is a continuous climbing up of number of companies founded, looks like a economic revival, but the acquisition slow down a little bit.     
+>>2) However, after crisis of 2012, the number of companies founded has a sharp decrease. We can tell the crisis that countries and banks struggle to get balances sheets  has much negative impact on starting a company. In the contrast, acquisition activities have increased slightly.     
 
 ![png](./pics/output_41_0.png)
 
