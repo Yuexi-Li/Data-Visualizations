@@ -8,8 +8,8 @@ This practices contains top 8 simple plotting types.
 > 2. Horizontal Bar Charts   
 > 3. Histogram Plots   
 > 4. Box Plots  
-> 5.  [**Line Plots**](https://github.com/YuexiSC/data-visualization/blob/master/Line_Plots.ipynb) :    best to illustrate the change in a variable over time.  
-> 6.  [**Bar Plots**](https://github.com/YuexiSC/data-visualization/blob/master/Bar_Plots.ipynb)  
+> 5.  [**Line Plots**](http://nbviewer.jupyter.org/github/YuexiSC/data-visualization/blob/master/Line_Plots.ipynb)| [jupyter notebook file](https://github.com/YuexiSC/data-visualization/blob/master/Line_Plots.ipynb) :    best to illustrate the change in a variable over time.  
+> 6.  [**Bar Plots**](http://nbviewer.jupyter.org/github/YuexiSC/data-visualization/blob/master/Bar_Plots.ipynb)| [jupyter notebook file](https://github.com/YuexiSC/data-visualization/blob/master/Bar_Plots.ipynb)  
       <li> horizontal bar plots  
       <li> vertical bar plots  
       <li> vertical grouped bar plots  
