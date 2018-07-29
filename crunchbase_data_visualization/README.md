@@ -1,7 +1,7 @@
 ## US companies and industry landscape with Crunchbase  Data 
 ### Overview
 In order to get a better understanding of companies and industry landscape in US,  we analyzed companies distributions, funding amounts, and aquisition trends in US using the Crunchbase data. 
-The [jupyter notebook](https://github.com/YuexiSC/data-visualization/blob/master/crunch_base_viz.ipynb) file consists of the following sections. The jupyter file is also available to view in [NBviewer](http://nbviewer.jupyter.org/github/YuexiSC/data-visualization/blob/master/crunch_base_viz.ipynb):   
+The [jupyter notebook](https://github.com/YuexiSC/data-visualization/blob/master/crunchbase_data_visualization/crunch_base_viz_final.ipynb) file consists of the following sections. The jupyter file is also available to view in [NBviewer](http://nbviewer.jupyter.org/github/YuexiSC/data-visualization/blob/master/crunchbase_data_visualization/crunch_base_viz_final.ipynb):   
 <li> Environment Configuration 
 <li> Data Preparation 
 <li> Data Visualization    
@@ -49,7 +49,7 @@ The highlighted findings with plots from jupyter notebook are as follows:
 >>1) we can see there is a slow down but no expected sharp decrease in the number of companies founded and acquired. And after financial crisis in 2008, there is a continuous climbing up of number of companies founded, looks like an economic revival, but the acquisition activities slow down a little bit.      
 >>2) However, after crisis of 2012, the number of companies founded has a sharp decrease. We can tell the crisis that countries and banks struggle to get balances sheets has much negative impact on starting a company. In the contrast, acquisition activities have increased slightly.   
 
-![png](./pics/output_41_0.png)
+![png](./pics/output_34_0.png)
 
 
 3. The trend of market with popular acquisition target from 2007 to 2014    
@@ -57,6 +57,6 @@ The highlighted findings with plots from jupyter notebook are as follows:
 >1.   Number of acquisition on mobile is steadly growing
 > 2. There are cheap acquisitions for curated web companies and pure software companies   
 
-![png](./pics/output_55_0.png)
+![png](./pics/output_81_0.png)
 
 
