@@ -41,13 +41,15 @@ The highlighted findings with plots from jupyter notebook are as follows:
 
 ![png](./pics/output_34_0_copy.png) 
 
-2. Number of companies founded and got acquired (2000 -2013)    
- *The trend of the number of companies founded and acquired over the years.*
+2. Counts of companies founded and got acquired from year (2000 to 2013)        
+*The trend of total companies founded and acquired over years.*  
+>1.  Entrepreneurship is on an upward trend.  
+>2.  Whether the crises have impacts on Entrepreneurship trend:   
+>> 1) we can see that from 2007 to 2008 total companies founded remain constant, but no expected sharp decrease. And after financial crisis in 2008, there was a spike of total companies founded, kind of an economic revival, but the acquisition activities kept constant after financial crisis.      
+>> 2) However, after crisis of 2012, the Containing Crisis, the total companies founded had a sharp decrease. We can tell the Containing Crisis that countries and banks struggle to get balances sheets has much negative impact on starting a company. In the contrast, acquisition activities increased slightly.   
 
->1.   Entrepreneurship is on an upward trend. 
->2. Whether the crises have impacts on Entrepreneurship trend:    
->>1) we can see there is a slow down but no expected sharp decrease in the number of companies founded and acquired. And after financial crisis in 2008, there is a continuous climbing up of number of companies founded, looks like an economic revival, but the acquisition activities slow down a little bit.      
->>2) However, after crisis of 2012, the number of companies founded has a sharp decrease. We can tell the crisis that countries and banks struggle to get balances sheets has much negative impact on starting a company. In the contrast, acquisition activities have increased slightly.   
+So, we can tell from this plot, that crisis do have some impacts on total companies founded and acquired each year, but the most famous 2008 financial crisis actually didn’t affect much on total companies founded and acquired.
+
 
 ![png](./pics/output_34_0.png)
 
