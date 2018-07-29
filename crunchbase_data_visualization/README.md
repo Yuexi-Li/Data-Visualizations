@@ -39,7 +39,7 @@ The highlighted findings with plots from jupyter notebook are as follows:
 >1. This graph was generated using Tableau, showing a basic regional distribution of the companies in US. 
 >2. California has the most number of companies, the number of which is way greater than the second state, New York.  
 
-![png](./pics/output_34_0.png) 
+![png](./pics/output_34_0_copy.png) 
 
 2. Number of companies founded and got acquired (2000 -2013)    
  *The trend of the number of companies founded and acquired over the years.*
