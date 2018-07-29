@@ -1,6 +1,7 @@
 # data-visualization
 Data visualization practices and projects.  
 1. [**Crunchbase company Data Analysis**](https://github.com/YuexiSC/data-visualization/tree/master/crunchbase_data_analysis)  
+> analyzed companies distributions, funding amounts, and aquisition trends in US using the Crunchbase data.      
  2. [**United States domestic flights Analysis**](https://github.com/YuexiSC/data-visualization/tree/master/flights_data_visualization)
 ## Practice 
 This practices contains top 8 simple plotting types.  
