@@ -2,9 +2,9 @@
 Data visualization practices and projects.  
 1. [**Crunchbase Company Data Analysis**](https://github.com/YuexiSC/data-visualization/tree/master/crunchbase_data_analysis)  
 > analyzed companies distributions, funding amounts, and aquisition trends in US using the Crunchbase data.      
- 2. [**United States Domestic Flights Analysis**](https://github.com/YuexiSC/data-visualization/tree/master/flights_data_visualization)   
- 3. [**Ford GoBike Dashboard**](https://github.com/YuexiSC/data-visualization/tree/master/ford_gobike)   
- 4.[**Yammer User Enagement ANnalysis**]()
+2. [**United States Domestic Flights Analysis**](https://github.com/YuexiSC/data-visualization/tree/master/flights_data_visualization)   
+3. [**Ford GoBike Dashboard**](https://github.com/YuexiSC/data-visualization/tree/master/ford_gobike)   
+4. [**Yammer User Enagement ANnalysis**]()
 
 ## Practice 
 This practices contains top 8 simple plotting types.  
