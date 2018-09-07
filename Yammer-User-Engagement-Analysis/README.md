@@ -108,16 +108,11 @@ The highlighted findings with plots from jupyter notebook are as follows:
 
 ### 4. Signup Process Analysis    
 *To visualize each process and to see the conversion rate more easily and precise by using funnel chart.*  
-<div>
-    <a href="https://plot.ly/~yuexili/12/?share_key=Gnk9NWlbweIX3jkG6Dw1Wp" target="_blank" title="Plot 12" style="display: block; text-align: center;"><img src="https://plot.ly/~yuexili/12.png?share_key=Gnk9NWlbweIX3jkG6Dw1Wp" alt="Plot 12" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    
 
-> From `create user` to `enter email`, there are huge amount loss!  And it is the most critical one among all steps, once user entered their email, there is a very large possibility for them to fulfill the following sign-up flows.  
-> With this finding, I want to check wether this problem is on device types. So I generated the following segmented funnel chart.  
 <div>
-    <a href="https://plot.ly/~yuexili/14/?share_key=C5WYjnzR951v0rD6plqs1e" target="_blank" title="Plot 14" style="display: block; text-align: center;"><img src="https://plot.ly/~yuexili/14.png?share_key=C5WYjnzR951v0rD6plqs1e" alt="Plot 14" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-   
-
-> The dark green stands for the device computer,  red stands for the device phone and the dark blue is for tablet. 
-From step1(`create_user`) to step2(`enter_email`),nearly 40% of users did not go through the second step!  
+    <a href="https://plot.ly/~yuexili/14/?share_key=C5WYjnzR951v0rD6plqs1e" target="_blank" title="Plot 14" style="display: block; text-align: center;"><img src="https://plot.ly/~yuexili/14.png?share_key=C5WYjnzR951v0rD6plqs1e" alt="Plot 14" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>   
+  
+> _The dark green stands for the device computer,  red stands for the device phone and the dark blue is for tablet._ 
+> From `create user` to `enter email`, there are huge amount loss, nearly 40% of users did not go through the second step!    And it is the most critical one among all steps, once user entered their email, there is a very large possibility for them to fulfill the following sign-up flows.  
+  
 > From the graph, we can see that all types of devices experienced lost between first and second step. However, computer is the one that suffers the most. So making more user friendly email enter portals can be a good way to attract computer users to get to the second step.  
